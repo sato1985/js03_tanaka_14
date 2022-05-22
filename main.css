@@ -1,0 +1,17 @@
+.line__container {
+    padding:0;
+    background: #7494c0;
+    overflow: hidden;
+    max-width: 400px;
+    margin: 20px auto;
+    font-size: 80%;
+  }
+  
+  /* タイトル部分 */
+  .line__container .line__title {
+    background: #273246;
+    padding: 10px;
+    text-align: center;
+    font-size: 150%;
+    color: #ffffff;
+  }
